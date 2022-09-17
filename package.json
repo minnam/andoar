@@ -1,0 +1,23 @@
+{
+  "name": "andoar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minnam/andoar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minnam/andoar/issues"
+  },
+  "homepage": "https://github.com/minnam/andoar#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
